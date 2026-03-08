@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "よるのあと",
+  "base_artist": "adieu",
+  "createdAt": "2026-03-08T14:13:32.013089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "よるのあと",
+      "artist": "adieu",
+      "has_synced": true,
+      "path": "select/01_よるのあと_adieu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "よるのあと - From THE FIRST TAKE",
+      "artist": "adieu",
+      "has_synced": true,
+      "path": "select/02_よるのあと_-_From_THE_FIRST_TAKE_adieu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "よるのあと - THE FIRST TAKE",
+      "artist": "adieu",
+      "has_synced": true,
+      "path": "select/03_よるのあと_-_THE_FIRST_TAKE_adieu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "よるのあと - From THE FIRST TAKE - Yorunoato - From THE FIRST TAKE",
+      "artist": "adieu",
+      "has_synced": true,
+      "path": "select/04_よるのあと_-_From_THE_FIRST_TAKE_-_Yorunoato_-_From_THE_FIRST_TAKE_adieu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よるのあと",
+      "artist": "adieu",
+      "has_synced": false,
+      "path": "select/pl_01_よるのあと_adieu.txt"
+    }
+  ]
+}
